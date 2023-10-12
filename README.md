@@ -48,3 +48,4 @@ print("NRP : 5009211062")
 - Kedelapan, program memeriksa apakah hasil konvolusi dari kedua fungsi tersebut sama dengan menggunakan fungsi np.allclose(z, z_numpy). Jika sama, program akan mencetak “True”, jika tidak sama, program akan mencetak “False”.
 
 ### Screenshot
+![image](tugas_utama/tugas2pso_photo.png)
