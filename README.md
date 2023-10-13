@@ -49,3 +49,35 @@ print("NRP : 5009211062")
 
 ### Screenshot
 ![image](tugas_utama/tugas2pso_photo.png)
+
+## Tugas Tambahan
+Tugas tambahan ini ada dua nomor.
+### Nomor 1
+Membuat plot grafik dari fungsi sinc yang sudah dikerjakan secara manual menggunakan bahasa Python. 
+- F(f) = 2A sinc (2fA)
+   + Ubah nilai n menjadi 2 dan asumsikan nilai A adalah 1 seperti ini:
+       ```py
+     # Choose some values for n and A
+      n = 2
+      A = 1
+      ```
+   + Jalankan kode sehingga mendapatkan plot gambar seperti berikut:
+     ![image](tugas_tambahan/plot1a.png)
+- F(f) = A sinc (fA)
+  + Ubah nilai n menjadi 1 dan asumsikan nilai A adalah 1 seperti ini:
+       ```py
+     # Choose some values for n and A
+      n = 1
+      A = 1
+      ```
+   + Jalankan kode sehingga mendapatkan plot gambar seperti berikut:
+     ![image](tugas_tambahan/plot2a.png)
+- F(f) = 6A sinc (6fA)
+  + Ubah nilai n menjadi 6 dan asumsikan nilai A adalah 1 seperti ini:
+       ```py
+     # Choose some values for n and A
+      n = 6
+      A = 1
+      ```
+   + Jalankan kode sehingga mendapatkan plot gambar seperti berikut:
+     ![image](tugas_tambahan/plot1c.png)
