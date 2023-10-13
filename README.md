@@ -53,7 +53,7 @@ print("NRP : 5009211062")
 ## Tugas Tambahan
 Tugas tambahan ini ada dua nomor.
 ### Nomor 1
-Membuat plot grafik dari fungsi sinc yang sudah dikerjakan secara manual menggunakan bahasa Python. 
+Membuat plot grafik dari fungsi sinc yang sudah dikerjakan secara manual menggunakan bahasa Python. Kode dapat dilihat di https://github.com/lavarrezel/tugas-sinyal-2/blob/main/tugas_tambahan/tugas2pso_tambahan_no1.py
 - F(f) = 2A sinc (2fA)
    + Ubah nilai n menjadi 2 dan asumsikan nilai A adalah 1 seperti ini:
        ```py
