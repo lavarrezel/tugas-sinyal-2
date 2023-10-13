@@ -71,7 +71,7 @@ Membuat plot grafik dari fungsi sinc yang sudah dikerjakan secara manual menggun
       A = 1
       ```
    + Jalankan kode sehingga mendapatkan plot gambar seperti berikut:
-     ![image](tugas_tambahan/plot2a.png)
+     ![image](tugas_tambahan/plot1b.png)
 - F(f) = 6A sinc (6fA)
   + Ubah nilai n menjadi 6 dan asumsikan nilai A adalah 1 seperti ini:
        ```py
