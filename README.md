@@ -86,11 +86,13 @@ Membuat plot grafik menggunakan bahasa Python dari fungsi sinc yang sudah dikerj
 Membuat plot grafik Fast Fourier Transform (FFT) 1 dimensi, 2 dimensi, dan MFCC dari sinyal fungsi sinc yang sudah di kerjakan.
 - FFT 1 Dimensi
   + Kode dapat dilihat di https://github.com/lavarrezel/tugas-sinyal-2/blob/main/tugas_tambahan/tugas2pso_2a.py
-    Berikut hasil plot-nya:
+  + Berikut hasil plot-nya:
      ![image](tugas_tambahan/plot2a.png)
 - FFT 2 Dimensi
   + Kode dapat dilihat di https://github.com/lavarrezel/tugas-sinyal-2/blob/main/tugas_tambahan/tugas2pso_2b.py
-    Berikut hasil plot-nya:
+  + Berikut hasil plot-nya:
      ![image](tugas_tambahan/plot2b.png)
 - MFCC
-  + 
+  + Kode dapat dilihat di https://github.com/lavarrezel/tugas-sinyal-2/blob/main/tugas_tambahan/tugas2pso_2a.py
+  + Berikut hasil plot-nya:
+     ![image](tugas_tambahan/plot2c.png)
